@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * main - Prints Holberton as a message
+ * main - Entry point
  *
- * Description: 'the programme prints _putchar'
+ * _putchar: the programme prints _putchar
  *
  * Return: Always 0 (Success)
  */
